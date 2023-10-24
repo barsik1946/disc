@@ -1,0 +1,8 @@
+.activities__list {
+    display: flex;
+    gap: 32px;
+    color: #161414;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+}

@@ -1,0 +1,67 @@
+.discover {
+  height: 722px;
+  padding: 120px 0;
+  color: #FFFFFF;
+  background-image: url('../images/bg-image.jpg');
+  background-size: 100% 100%;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+    
+}
+
+.discover__title {
+  padding-top: 32px;
+  text-align: center;
+  font-size: 48px;
+  font-weight: 600;
+  line-height: 62px;
+}
+
+.discover__link {
+  display: block;
+  margin: 0 auto 184px;
+  text-align: center;
+  border-radius: 12px;
+  color: #FFFFFF;
+  background: #7B61FF;
+  border-color: #7B61FF;
+  padding: 24px;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 18px;
+}
+
+.discover__form {
+  margin: 0 auto;
+  width: 1140px;
+  display: grid;
+  grid-template-columns: 300px 254px 254px 254px 65px;
+  justify-content: space-between;
+  background-color: #FFFFFF;
+  border-radius: 12px;
+}
+
+.discover__label {
+  display: flex;
+  padding: 16px;
+ 
+}
+
+.input__text_1 {
+  width: 226px;
+}
+
+
+.form__foto {
+  align-self: start;
+  
+  padding-top: 12px;
+  padding-right: 16px;
+}
+
+.discover__button {
+  margin-right: 5px;
+  width: 60px;
+  height: 60px;
+  align-self: center;
+}

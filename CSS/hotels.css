@@ -1,0 +1,9 @@
+.hotels__list {
+    display: flex;
+    gap: 32px;
+}
+
+.stars {
+    float: right;
+}
+  

@@ -1,0 +1,26 @@
+.about__container {
+    display: flex;
+    row-gap: 32px;
+    justify-content: center;
+    color: #5B5B5B;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+.about__title {
+    padding-bottom: 32px;
+}
+
+.about__text {
+    margin: auto 0;
+}
+
+.about__text_2 {
+    width: 473px;
+    padding-bottom: 32px;
+}
+
+.about__arrow {
+    width: 133px;
+}

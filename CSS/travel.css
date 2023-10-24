@@ -1,0 +1,23 @@
+.travel__list {
+    display: flex;
+    gap: 32px;
+}
+
+.travel__item {
+    display: flex;
+    flex-basis: 25%;
+    flex-direction: column;
+    justify-content: space-between;
+    color: #979797;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+  
+.travel__item_list {
+    display: flex;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16px; 
+    gap: 24px;
+}
